@@ -245,7 +245,7 @@ Example response:
     },
     {
       "date": "2018-07-28T00:00:00.000+0000",
-      "value": 587
+      "value": 586
     }
   ],
   "messagesSent": [
